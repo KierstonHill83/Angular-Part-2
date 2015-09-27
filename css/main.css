@@ -1,1 +1,35 @@
-/* add custom styles */
+}
+
+.red {
+  color: red;
+}
+
+#title, #description, #footer {
+  margin-left: 50px;
+}
+
+p {
+  font-size: 15px;
+}
+
+#author {
+  text-align: right;
+}
+
+h5 {
+  font-size: 17px;
+}
+
+form {
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-bottom: 30px;
+}
+
+#break {
+  background-color: white;
+}
+
+.form-inline {
+  margin-right: 285px;
+}
